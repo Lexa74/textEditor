@@ -1,0 +1,12 @@
+[
+    {
+        "id": 0,
+        "caption": "Заметка 1",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Non eum, voluptatibus labore voluptates quibusdam impedit nobis provident nisi iste neque adipisci? Cupiditate nisi cum laudantium similique sequi animi illo.Nobis?"
+    },
+    {
+        "id": 5,
+        "caption": "Заметка 2",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Non eum, voluptatibus labore voluptates quibusdam impedit nobis provident nisi iste neque adipisci? Cupiditate nisi cum laudantium similique sequi animi illo.Nobis?"
+    }
+]
